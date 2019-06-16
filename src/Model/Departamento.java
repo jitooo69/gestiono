@@ -1,0 +1,36 @@
+package Model;
+
+public enum Departamento {
+	//Enum con listas
+	ANTAE,
+	Archivos_y_Bibliotecas,
+	Área_de_nuevas_tecnologías_y_administración_electrónica,
+	Arquitectura,
+	Bienestar_social,
+	Colonia_Polster,
+	Conserjería,
+	Contratación,
+	Cultura_y_turismo,
+	Chantre,
+	Empresas_Participadas, 
+	Gabinete_de_Comunicación,
+	Gabinete_Geológico,
+	Gabinete_Técnico,
+	Gestión_Municipal, 
+	Grupos_Políticos, 
+	Intervención,
+	Laboratorio_Medio_Ambiente,
+	Museo_Provincial,
+	Nóminas, 
+	Parque_de_Maquinaria,
+	Personal,
+	Planes_Provinciales,
+	Presidencia,
+	Programas_de_la_Unión_Europea,
+	Recaudación,
+	Registro,
+	Servicio_Contra_Incendios,
+	Tesorería,
+	TIC,
+	Vicepresidencia;
+}
